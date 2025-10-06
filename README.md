@@ -1,1 +1,2 @@
 # Demand_forecasting
+This dataset is designed for demand forecasting and sales prediction across multiple retail stores. It can be used to train machine learning models that predict future product demand based on historical sales data, time features, and store information.
